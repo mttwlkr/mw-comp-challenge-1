@@ -1,4 +1,4 @@
-# static-comp-1:
+# Matt Walker static-comp-1:
 
 I designed a newsfeed for blockchain projects, tokens and currencies. I used the following reasoning for the pallette, layout and responsiveness;
 
